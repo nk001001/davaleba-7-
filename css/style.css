@@ -45,7 +45,7 @@
 	background-color: white;
 	display: flex;
 	justify-content: center;
-	align-content: center;
+	
 
 }
 .section-1-text {
@@ -105,7 +105,7 @@
 	width: 400px;
 	height: 150px;
 	margin: 0 auto;
-	position: relative;
+	text-align: center;
 	
 
 }
@@ -114,7 +114,6 @@
 	font-size: 11px;
 	color: blue;
 	font-family: 'Roboto', sans-serif;
-	padding-left: 100px;
 	padding-top: 10px;
 	padding-bottom: 20px;
 }
@@ -122,7 +121,6 @@
 .section-2-p1 {
 	font-size: 22px;
 	font-family: 'Roboto', sans-serif;
-	padding-left: 15px;
 	padding-bottom: 20px;
 }
 .section-1-p2 {
